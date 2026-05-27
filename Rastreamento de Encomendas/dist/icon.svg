@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#2563eb"/>
+  <g transform="translate(256,256)">
+    <!-- Package icon -->
+    <path d="M-80,-120 L0,-160 L80,-120 L80,0 L0,40 L-80,0 Z" fill="none" stroke="#ffffff" stroke-width="24" stroke-linejoin="round"/>
+    <path d="M-80,-120 L0,-80 L80,-120 M0,-80 L0,40" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Location marker -->
+    <circle cx="0" cy="80" r="45" fill="#ffffff"/>
+    <circle cx="0" cy="75" r="15" fill="#2563eb"/>
+  </g>
+</svg>
